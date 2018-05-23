@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example WiFi Direct</string>
+    <string name="port_info">Requests listening on %s</string>
+    <string name="chat_request_title">Chat request from %s</string>
+</resources>
